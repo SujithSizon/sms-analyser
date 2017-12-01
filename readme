@@ -1,9 +1,4 @@
 rawdata.json > [firstfilter.py] > rawdata_filtered.json > [secondfilter.py] > account_info.json
 
-
-
-
-
-
 firstfilter.py does the first level of checking 
 second filter does scoring and direct template matching and stores information in account_infor.json
