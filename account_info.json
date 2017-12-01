@@ -1,0 +1,37 @@
+[
+    [
+        "First Gulf Bank", 
+        "Dubai", 
+        "111111", 
+        "10000.20", 
+        "20-02-2016"
+    ], 
+    [
+        "First Gulf Bank", 
+        "Dubai", 
+        "333333", 
+        "2000.20", 
+        "22-02-2016"
+    ], 
+    [
+        "First Gulf Bank", 
+        "Dubai", 
+        "2222", 
+        "19900,00", 
+        "21-FEB-16"
+    ], 
+    [
+        "First Gulf Bank", 
+        "Dubai", 
+        "4444", 
+        "50,00", 
+        "23-FEB-16"
+    ], 
+    [
+        "HSBC Bank Middle East", 
+        "Dubai", 
+        "666666", 
+        "100.60", 
+        "25-MAR-2016"
+    ]
+]

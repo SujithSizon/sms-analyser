@@ -1,0 +1,16 @@
+FGB
+Dear customer, your net available balance for AC XXXXXXXX123456 is AED (number).(decimal two digits) as on (dd-mm-yyyy) (hh:mm:ss)
+
+input_raw = "Dear customer, your net available balance for AC XXXXXXXX123456 is AED 10000.20 as on 16-02-2016 12:12:12"
+
+------------------------------------------------------------------------------------------------------
+FGB
+Balance in a/c XXXXXXXXXXXX1234 as of dd-mmm-yy EOD is AED (number),(decimal two digits) . Check a/c for current balance. Credits in a/c are subject to clearing.
+
+input_raw = "Balance in a/c XXXXXXXXXXXX1234 as of 22-FEB-16 EOD is AED 10000,00 . Check a/c for current balance. Credits in a/c are subject to clearing."
+
+-------------------------------------------------------------------------------------------------------
+HSBC
+Balance in saving a/c 123456 as of dd-mmm-yyyy EOD is AED (number).(twodecmals) . credits in a/c are subject to clearing. To know more use HSBC mobile /hsbc.ae/mobile.
+
+input_raw = "Balance in saving a/c 123456 as of 26-MAR-2016 EOD is AED 200000.60 . credits in a/c are subject to clearing. To know more use HSBC mobile /hsbc.ae/mobile."

@@ -1,0 +1,44 @@
+[
+   {
+      "senderid": "AM-FGB", 
+      "date": "11-03-2017",
+      "time": "14:23:01", 
+      "content": "Dear customer, your net available balance for AC XXXXXXXX123456 is AED 10000.20 as on 16-02-2016 12:12:12"
+   }, 
+   {
+      "senderid": "AM-FGB", 
+      "date": "12-03-2017",
+      "time": "14:23:02", 
+      "content": "Balance in a/c XXXXXXXXXXXX1234 as of 22-FEB-16 EOD is AED 19900,00 . Check a/c for current balance. Credits in a/c are subject to clearing."
+   },
+   {
+      "senderid": "AM-FGB", 
+      "date": "15-03-2017",
+      "time": "12:23:01", 
+      "content": "Dear customer, your net available balance for AC XXXXXXXX459856 is AED 2000.20 as on 16-02-2016 12:12:12"
+   }, 
+   {
+      "senderid": "AM-FGB", 
+      "date": "12-03-2017",
+      "time": "14:23:02", 
+      "content": "Balance in a/c XXXXXXXXXXXX1564 as of 22-FEB-16 EOD is AED 50,00 . Check a/c for current balance. Credits in a/c are subject to clearing."
+   },
+   {
+      "senderid": "CX-SPM", 
+      "date": "13-03-2017",
+      "time": "14:23:03", 
+      "content": "Balance  spam spam spam a. Check a/c for current balance. spam."
+   },  
+   {
+      "senderid": "HSBC-CXB", 
+      "date": "14-03-2017",
+      "time": "14:23:04", 
+      "content": "Balance in saving a/c 123456 as of 26-MAR-2016 EOD is AED 200000.60 . credits in a/c are subject to clearing. To know more use HSBC mobile /hsbc.ae/mobile."
+   },
+   {
+      "senderid": "HSBC-CXB", 
+      "date": "14-03-2017",
+      "time": "24:23:04", 
+      "content": "Balance in saving a/c 123456 as of 26-MAR-2016 EOD is AED 100.60 . credits in a/c are subject to clearing. To know more use HSBC mobile /hsbc.ae/mobile."
+   }
+]

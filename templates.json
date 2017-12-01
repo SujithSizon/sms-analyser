@@ -1,0 +1,45 @@
+[
+    {
+                "Bank Name": "First Gulf Bank",
+                "country": "Dubai",
+                "keywords": ["dear", "customer", "available", "balance", "ac", "aed"],
+                "regex" : "Dear customer, your net available balance for AC XXXXXXXX\\d{6} is AED \\d*\\.\\d{2} as on \\d{2}-\\d{2}-\\d{4} \\d*:\\d*:\\d*",
+    			"posaccno" : 8,
+                "posbalno" : 11,
+                "posdate" : 14,
+                "numofx": 8.0000,
+    			"numaccno": 6.0000,
+    			"dateformat": "ddmmyyyy",
+    			"timeformat": "hhmmss",
+    			"amountformat": "dot"
+    },
+    {
+                "Bank Name": "First Gulf Bank",
+                "country": "Dubai",
+                "keywords": [ "balance", "a/c", "eod", "aed", "check", "current", "credits", "subject", "clearing"],
+                "regex": "Balance in a/c XXXXXXXXXXXX\\d{4} as of \\d{2}-[A-Z]{3}-\\d{2} EOD is AED \\d*,\\d{2} \\. Check a/c for current balance. Credits in a/c are subject to clearing\\.",
+                "posaccno" : 3,
+                "posbalno" : 10,
+                "posdate" : 6,
+                "numofx": 12.0000,
+                "numaccno": 4.0000,
+                "dateformat": "ddmmmyy",
+                "timeformat": "nil",
+                "amountformat": "comma"
+    },
+    {
+                "Bank Name": "HSBC Bank Middle East",
+                "country": "Dubai",
+                "keywords": [ "balance", "saving", "a/c", "eod", "aed", "eod", "credits", "subject", "clearing", "know", "more", "use", "hsbc","mobile", "/hsbc.ae/mobile"],
+                "regex": "Balance in saving a/c \\d{6} as of \\d{2}-[A-Z]{3}-\\d{4} EOD is AED \\d*\\.\\d{2} \\. credits in a/c are subject to clearing\\. To know more use HSBC mobile /hsbc.ae/mobile\\.",
+                "posaccno" : 4,
+                "posbalno" : 11,
+                "posdate" : 7,
+                "numofx": "nil",
+                "numaccno": 6.0000,
+                "dateformat": "ddmmmyyyy",
+                "timeformat": "nil",
+                "amountformat": "comma"
+    }
+    
+]
