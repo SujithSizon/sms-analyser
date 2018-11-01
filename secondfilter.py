@@ -65,7 +65,7 @@ for i in templates_decode:
 				if flag==0:
 					lst.append([i['Bank Name'], i['country'], accno,bal,date])
 				elif flag==1:
-				 	print "same pussi"
+				 	print "same stuff"
 				 	lst[z][3]=bal
 				 	lst[z][4]=date
 
